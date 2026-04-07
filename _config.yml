@@ -13,10 +13,10 @@ title                    : "Nitya Khamar / Personal Website"
 title_separator          : "-"
 name                     : &name "Nitya Khamar"
 description              : &description "Incoming Masters of Science with Thesis Student"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://nkhamar.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://N-K-22.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "N-K-22/nkhamar.github.io"
+repository               : "N-K-22/N-K-22.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -30,7 +30,7 @@ author:
   location         : "Earth"
   employer         : "B.S. Computer Engineering at University of Virginia 2026"
   uri              : # URL
-  email            : "khamarnitya@gmail.com" 
+  email            : "khamarnitya [at] gmail [dot] com" 
 
   # Academic websites
   academia         : # URL
@@ -338,7 +338,7 @@ category_archive:
   type: liquid
   path: /categories/
 tag_archive:
-  type: liquids
+  type: liquid
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
