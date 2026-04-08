@@ -2,9 +2,8 @@
 title: "Undergraduate Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
 venue: "University of Virginia, School of Engineering and Applied Science"
-date_range: "Spring 2023 - Present"
+period: "Spring 2023 - Present"
 location: "Charlottesville, Virginia"
 ---
 
