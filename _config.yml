@@ -23,14 +23,14 @@ repository               : "N-K-22/n-k-22.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : #"profile.png"
+  avatar           : "profile.png"
   name             : "Nitya Khamar"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Charlottesville, Virginia"
   employer         : "B.S. Computer Engineering at University of Virginia 2026"
   uri              : # URL
-  email            : "khamarnitya [at] gmail [dot] com" 
+  email            : "khamarnitya@gmail.com" 
 
   # Academic websites
   academia         : # URL
@@ -86,10 +86,10 @@ author:
 publication_category:
   # books:
   #   title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+  # manuscripts:
+  #   title: 'Journal Articles'    
+  # conferences:
+  #   title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
